@@ -1,2 +1,2 @@
 # Advanced-Analytics-in-Fundraising
-Improving Marketing Campaign Response Rates
+Predictive Analytics Project on Improving Marketing Campaign Response Rates
