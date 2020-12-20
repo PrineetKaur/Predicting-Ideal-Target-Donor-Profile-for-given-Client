@@ -1,1 +1,1 @@
-Advanced Analytics Project on Improving Marketing Campaign Response Rates
+Data Cleaning, Modeling and Calculating performance parameters like AUC, Lift, Sensitivity, etc.
