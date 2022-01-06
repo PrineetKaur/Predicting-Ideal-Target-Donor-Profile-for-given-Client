@@ -1,1 +1,1 @@
-Data Cleaning, Modeling and Calculating performance parameters like AUC, Lift, Sensitivity, etc.
+Data Cleaning, Modeling and Calculating Performance Parameters like AUC, Lift, Sensitivity, etc.
